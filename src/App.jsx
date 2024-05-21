@@ -1,5 +1,5 @@
 import { useState } from "react";
-import 'style.css'; // Asegúrate de que la ruta sea correcta
+import '../src/style.css'; // Asegúrate de que la ruta sea correcta
 
 function App() {
   const [n1, setN1] = useState(0);
